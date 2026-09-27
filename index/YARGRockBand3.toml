@@ -1,6 +1,6 @@
 name = "YARGRockBand3"
+display_name = "YARG Rock Band 3"
 home = "https://discord.com/channels/731205301247803413/1454538103933898752"
-display_name = "Rock Band 3"
 default_url = "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/{{version}}/YARGRockBand3.apworld"
 
 [versions]
